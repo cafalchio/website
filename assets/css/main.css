@@ -2570,9 +2570,9 @@ input, select, textarea {
 		-webkit-justify-content: space-between;
 		-ms-justify-content: space-between;
 		justify-content: space-between;
-		background-color: #080706;
+		background-color: #130f0c;
 		background-attachment: scroll,								scroll;
-		background-image: url("images/overlay.png"), url("../../images/bg1.jpg");
+		background-image: url("images/bg.png"), url("../../images/bg1.jpg");
 		opacity: 0.9;
 		background-position: top left,							top left;
 		background-repeat: repeat,								no-repeat;
