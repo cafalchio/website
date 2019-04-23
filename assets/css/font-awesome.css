@@ -330,6 +330,9 @@
     content: "\f01d"
 }
 
+.fa-researchgate:before {
+    content: "\f4f8"; }
+
 .fa-rotate-right:before,
 .fa-repeat:before {
     content: "\f01e"
